@@ -5,6 +5,9 @@ import Fares from './components/Fares';
 function App() {
   return (
     <div className="App">
+      <Karim />
+      <div className='circle'>
+      </div>
       <Fares />
     </div>
   );
