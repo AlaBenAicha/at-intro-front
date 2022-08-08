@@ -1,12 +1,13 @@
 import logo from './logo.svg';
 import './App.css';
-import Karim from './components/Karim'
+import Amina from './components/Amina'
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <Karim/>
-        <div className='circle'>
+        <Amina/>
+        <div className='circle'></div>
+        <div className='caree'>
 
 </div>
       </header>
