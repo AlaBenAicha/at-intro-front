@@ -7,6 +7,7 @@ function App() {
       <header className="App-header">
         <Karim/>
         <div className='circle'>
+        <div className='bow'></div>
 
 </div>
       </header>

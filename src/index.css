@@ -12,9 +12,16 @@ code {
     monospace;
 }
 .circle{
-  background-color: red;
+  background-image: linear-gradient(90deg, #f20ab9 35%, #ff0057 100%);
   width: 500px;
   height: 500px;
   border-radius: 80px;
+  box-shadow: 5px 1px 14px 12px #888888
 
+}
+.bow{
+  width: 200px;
+  height: 200px;
+  border: 5px solid #000;
+  border-radius: 80px;
 }
