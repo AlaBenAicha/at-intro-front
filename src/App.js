@@ -5,9 +5,10 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <Karim/>
+        <Karim/><div className='o'></div>
         <div className='circle'>
         <div className='bow'></div>
+        
 
 </div>
       </header>

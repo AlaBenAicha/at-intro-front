@@ -25,3 +25,10 @@ code {
   border: 5px solid #000;
   border-radius: 80px;
 }
+.o{
+  width: 200px;
+  height: 200px;
+  border-radius: 80px;
+  background-color: #fff;
+
+}
