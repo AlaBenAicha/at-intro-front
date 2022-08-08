@@ -6,10 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <Amina/>
-        <div className='circle'></div>
-        <div className='caree'>
 
-</div>
       </header>
     </div>
   );
