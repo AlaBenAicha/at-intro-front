@@ -2,7 +2,13 @@ import React from 'react'
 
 function Karim() {
   return (
-    <h1>O</h1>
+    <div class="wrapper">
+     <div className='o'></div>
+     <div className='bow'></div>
+     <h1 style={{fontSize:"10rem"}}>O</h1>
+     <div className='circle'></div>
+    </div>
+   
   )
 }
 
